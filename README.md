@@ -1,1 +1,1 @@
-# news-explorer-frontend
+# coding along with vue mastery intro to vue 
